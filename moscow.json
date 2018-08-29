@@ -3,420 +3,420 @@
     "name": "Академический",
     "district": "ЮЗАО",
     "area": "5,83",
-    "population": "109 231",
+    "population": "109231",
     "residentialArea": "2467,0"
   },
   {
     "name": "Алексеевский",
     "district": "СВАО",
     "area": "5,29",
-    "population": "80 391",
+    "population": "80391",
     "residentialArea": "1607,9"
   },
   {
     "name": "Алтуфьевский",
     "district": "СВАО",
     "area": "3,25",
-    "population": "57 408",
+    "population": "57408",
     "residentialArea": "839,3"
   },
   {
     "name": "Арбат",
     "district": "ЦАО",
     "area": "2,11",
-    "population": "35 529",
+    "population": "35529",
     "residentialArea": "731,0"
   },
   {
     "name": "Аэропорт",
     "district": "САО",
     "area": "4,58",
-    "population": "79 294",
+    "population": "79294",
     "residentialArea": "1939,7"
   },
   {
     "name": "Бабушкинский",
     "district": "СВАО",
     "area": "5,07",
-    "population": "88 296",
+    "population": "88296",
     "residentialArea": "1586,3"
   },
   {
     "name": "Басманный",
     "district": "ЦАО",
     "area": "8,37",
-    "population": "110 146",
+    "population": "110146",
     "residentialArea": "1991,8"
   },
   {
     "name": "Беговой",
     "district": "САО",
     "area": "5,56",
-    "population": "42 769",
+    "population": "42769",
     "residentialArea": "791,1"
   },
   {
     "name": "Бескудниковский",
     "district": "САО",
     "area": "3,30",
-    "population": "78 971",
+    "population": "78971",
     "residentialArea": "1391,7"
   },
   {
     "name": "Бибирево",
     "district": "СВАО",
     "area": "6,45",
-    "population": "160 053",
+    "population": "160053",
     "residentialArea": "2521,8"
   },
   {
     "name": "Бирюлёво Восточное",
     "district": "ЮАО",
     "area": "14,77",
-    "population": "154 191",
+    "population": "154191",
     "residentialArea": "2122,2"
   },
   {
     "name": "Бирюлёво Западное",
     "district": "ЮАО",
     "area": "8,51",
-    "population": "88 401",
+    "population": "88401",
     "residentialArea": "1183,2"
   },
   {
     "name": "Богородское",
     "district": "ВАО",
     "area": "10,24",
-    "population": "108 111",
+    "population": "108111",
     "residentialArea": "1744,1"
   },
   {
     "name": "Братеево",
     "district": "ЮАО",
     "area": "7,63",
-    "population": "109 815",
+    "population": "109815",
     "residentialArea": "1585,4"
   },
   {
     "name": "Бутырский",
     "district": "СВАО",
     "area": "5,04",
-    "population": "71 013",
+    "population": "71013",
     "residentialArea": "1236,2"
   },
   {
     "name": "Вешняки",
     "district": "ВАО",
     "area": "10,72",
-    "population": "122 123",
+    "population": "122123",
     "residentialArea": "1976,8"
   },
   {
     "name": "Внуково",
     "district": "ЗАО",
     "area": "17,42",
-    "population": "25 406",
+    "population": "25406",
     "residentialArea": "416,6"
   },
   {
     "name": "Войковский",
     "district": "САО",
     "area": "6,61",
-    "population": "70 192",
+    "population": "70192",
     "residentialArea": "1531,0"
   },
   {
     "name": "Восточное Дегунино",
     "district": "САО",
     "area": "3,77",
-    "population": "98 864",
+    "population": "98864",
     "residentialArea": "1592,5"
   },
   {
     "name": "Восточное Измайлово",
     "district": "ВАО",
     "area": "3,85",
-    "population": "77 948",
+    "population": "77948",
     "residentialArea": "706,6"
   },
   {
     "name": "Восточный",
     "district": "ВАО",
     "area": "3,14",
-    "population": "13 631",
+    "population": "13631",
     "residentialArea": "227,5"
   },
   {
     "name": "Выхино-Жулебино",
     "district": "ЮВАО",
     "area": "14,97",
-    "population": "224 796",
+    "population": "224796",
     "residentialArea": "3704,7"
   },
   {
     "name": "Гагаринский",
     "district": "ЮЗАО",
     "area": "5,50",
-    "population": "80 582",
+    "population": "80582",
     "residentialArea": "2095,3"
   },
   {
     "name": "Головинский",
     "district": "САО",
     "area": "8,93",
-    "population": "103 148",
+    "population": "103148",
     "residentialArea": "1806,4"
   },
   {
     "name": "Гольяново",
     "district": "ВАО",
     "area": "14,99",
-    "population": "162 715",
+    "population": "162715",
     "residentialArea": "3024,1"
   },
   {
     "name": "Даниловский",
     "district": "ЮАО",
     "area": "12,60",
-    "population": "93 418",
+    "population": "93418",
     "residentialArea": "2847,4"
   },
   {
     "name": "Дмитровский",
     "district": "САО",
     "area": "7,29",
-    "population": "93 217",
+    "population": "93217",
     "residentialArea": "1364,5"
   },
   {
     "name": "Донской",
     "district": "ЮАО",
     "area": "5,73",
-    "population": "51 829",
+    "population": "51829",
     "residentialArea": "1094,0"
   },
   {
     "name": "Дорогомилово",
     "district": "ЗАО",
     "area": "7,95",
-    "population": "74 865",
+    "population": "74865",
     "residentialArea": "1906,2"
   },
   {
     "name": "Замоскворечье",
     "district": "ЦАО",
     "area": "4,32",
-    "population": "58 637",
+    "population": "58637",
     "residentialArea": "1072,3"
   },
   {
     "name": "Западное Дегунино",
     "district": "САО",
     "area": "7,53",
-    "population": "83 262",
+    "population": "83262",
     "residentialArea": "1385,1"
   },
   {
     "name": "Зюзино",
     "district": "ЮЗАО",
     "area": "5,45",
-    "population": "126 573",
+    "population": "126573",
     "residentialArea": "2132,3"
   },
   {
     "name": "Зябликово",
     "district": "ЮАО",
     "area": "4,38",
-    "population": "133 096",
+    "population": "133096",
     "residentialArea": "1879,2"
   },
   {
     "name": "Ивановское",
     "district": "ВАО",
     "area": "10,19",
-    "population": "127 565",
+    "population": "127565",
     "residentialArea": "2075,0"
   },
   {
     "name": "Измайлово",
     "district": "ВАО",
     "area": "15,24",
-    "population": "106 741",
+    "population": "106741",
     "residentialArea": "2055,9"
   },
   {
     "name": "Капотня",
     "district": "ЮВАО",
     "area": "8,06",
-    "population": "32 364",
+    "population": "32364",
     "residentialArea": "408,5"
   },
   {
     "name": "Коньково",
     "district": "ЮЗАО",
     "area": "7,18",
-    "population": "156 211",
+    "population": "156211",
     "residentialArea": "3098,8"
   },
   {
     "name": "Коптево",
     "district": "САО",
     "area": "5,38",
-    "population": "101 894",
+    "population": "101894",
     "residentialArea": "2449,8"
   },
   {
     "name": "Косино-Ухтомский",
     "district": "ВАО",
     "area": "15,05",
-    "population": "81 588",
+    "population": "81588",
     "residentialArea": "1336,0"
   },
   {
     "name": "Котловка",
     "district": "ЮЗАО",
     "area": "3,94",
-    "population": "65 811",
+    "population": "65811",
     "residentialArea": "1104,1"
   },
   {
     "name": "Красносельский",
     "district": "ЦАО",
     "area": "4,96",
-    "population": "48 534",
+    "population": "48534",
     "residentialArea": "871,2"
   },
   {
     "name": "Крылатское",
     "district": "ЗАО",
     "area": "12,04",
-    "population": "82 593",
+    "population": "82593",
     "residentialArea": "1850,5"
   },
   {
     "name": "Крюково",
     "district": "ЗелАО",
     "area": "10,49",
-    "population": "97 746",
+    "population": "97746",
     "residentialArea": "1799,0"
   },
   {
     "name": "Кузьминки",
     "district": "ЮВАО",
     "area": "8,15",
-    "population": "145 680",
+    "population": "145680",
     "residentialArea": "2312,7"
   },
   {
     "name": "Кунцево",
     "district": "ЗАО",
     "area": "16,56",
-    "population": "151 423",
+    "population": "151423",
     "residentialArea": "2587,4"
   },
   {
     "name": "Куркино",
     "district": "СЗАО",
     "area": "7,90",
-    "population": "33 312",
+    "population": "33312",
     "residentialArea": "900,0"
   },
   {
     "name": "Левобережный",
     "district": "САО",
     "area": "8,00",
-    "population": "53 951",
+    "population": "53951",
     "residentialArea": "933,0"
   },
   {
     "name": "Лефортово",
     "district": "ЮВАО",
     "area": "9,06",
-    "population": "94 102",
+    "population": "94102",
     "residentialArea": "1384,2"
   },
   {
     "name": "Лианозово",
     "district": "СВАО",
     "area": "5,79",
-    "population": "85 837",
+    "population": "85837",
     "residentialArea": "1563,7"
   },
   {
     "name": "Ломоносовский",
     "district": "ЮЗАО",
     "area": "3,34",
-    "population": "87 998",
+    "population": "87998",
     "residentialArea": "2881,5"
   },
   {
     "name": "Лосиноостровский",
     "district": "СВАО",
     "area": "5,54",
-    "population": "82 869",
+    "population": "82869",
     "residentialArea": "1486,0"
   },
   {
     "name": "Люблино",
     "district": "ЮВАО",
     "area": "17,41",
-    "population": "171 946",
+    "population": "171946",
     "residentialArea": "2739,7"
   },
   {
     "name": "Марфино",
     "district": "СВАО",
     "area": "2,97",
-    "population": "35 196",
+    "population": "35196",
     "residentialArea": "711,1"
   },
   {
     "name": "Марьина Роща",
     "district": "СВАО",
     "area": "4,68",
-    "population": "67 367",
+    "population": "67367",
     "residentialArea": "1118,9"
   },
   {
     "name": "Марьино",
     "district": "ЮВАО",
     "area": "11,91",
-    "population": "253 908",
+    "population": "253908",
     "residentialArea": "4523,0"
   },
   {
     "name": "Матушкино",
     "district": "ЗелАО",
     "area": "4,38",
-    "population": "40 351",
+    "population": "40351",
     "residentialArea": "781,0"
   },
   {
     "name": "Метрогородок",
     "district": "ВАО",
     "area": "27,57",
-    "population": "38 879",
+    "population": "38879",
     "residentialArea": "575,7"
   },
   {
     "name": "Мещанский",
     "district": "ЦАО",
     "area": "4,60",
-    "population": "60 778",
+    "population": "60778",
     "residentialArea": "1417,4"
   },
   {
     "name": "Митино",
     "district": "СЗАО",
     "area": "12,67",
-    "population": "192 876",
+    "population": "192876",
     "residentialArea": "3658,1"
   },
   {
     "name": "Можайский",
     "district": "ЗАО",
     "area": "10,73",
-    "population": "137 746",
+    "population": "137746",
     "residentialArea": "2655,9"
   },
   {
@@ -430,448 +430,448 @@
     "name": "Москворечье-Сабурово",
     "district": "ЮАО",
     "area": "9,30",
-    "population": "80 512",
+    "population": "80512",
     "residentialArea": "1314,7"
   },
   {
     "name": "Нагатино-Садовники",
     "district": "ЮАО",
     "area": "8,17",
-    "population": "82 836",
+    "population": "82836",
     "residentialArea": "960,4"
   },
   {
     "name": "Нагатинский Затон",
     "district": "ЮАО",
     "area": "9,80",
-    "population": "119 726",
+    "population": "119726",
     "residentialArea": "1848,8"
   },
   {
     "name": "Нагорный",
     "district": "ЮАО",
     "area": "5,42",
-    "population": "81 646",
+    "population": "81646",
     "residentialArea": "1551,4"
   },
   {
     "name": "Некрасовка",
     "district": "ЮВАО",
     "area": "5,58",
-    "population": "63 275",
+    "population": "63275",
     "residentialArea": "385,5"
   },
   {
     "name": "Нижегородский",
     "district": "ЮВАО",
     "area": "7,57",
-    "population": "45 208",
+    "population": "45208",
     "residentialArea": "722,3"
   },
   {
     "name": "Новогиреево",
     "district": "ВАО",
     "area": "4,45",
-    "population": "98 382",
+    "population": "98382",
     "residentialArea": "1704,0"
   },
   {
     "name": "Новокосино",
     "district": "ВАО",
     "area": "3,60",
-    "population": "107 646",
+    "population": "107646",
     "residentialArea": "1682,4"
   },
   {
     "name": "Ново-Переделкино",
     "district": "ЗАО",
     "area": "8,48",
-    "population": "121 947",
+    "population": "121947",
     "residentialArea": "1895,0"
   },
   {
     "name": "Обручевский",
     "district": "ЮЗАО",
     "area": "6,11",
-    "population": "85 616",
+    "population": "85616",
     "residentialArea": "1742,0"
   },
   {
     "name": "Орехово-Борисово Северное",
     "district": "ЮАО",
     "area": "7,67",
-    "population": "131 926",
+    "population": "131926",
     "residentialArea": "1939,6"
   },
   {
     "name": "Орехово-Борисово Южное",
     "district": "ЮАО",
     "area": "6,94",
-    "population": "147 713",
+    "population": "147713",
     "residentialArea": "2149,7"
   },
   {
     "name": "Останкинский",
     "district": "СВАО",
     "area": "12,46",
-    "population": "63 148",
+    "population": "63148",
     "residentialArea": "1131,4"
   },
   {
     "name": "Отрадное",
     "district": "СВАО",
     "area": "10,18",
-    "population": "185 171",
+    "population": "185171",
     "residentialArea": "3191,6"
   },
   {
     "name": "Очаково-Матвеевское",
     "district": "ЗАО",
     "area": "17,54",
-    "population": "129 890",
+    "population": "129890",
     "residentialArea": "2255,1"
   },
   {
     "name": "Перово",
     "district": "ВАО",
     "area": "9,73",
-    "population": "140 783",
+    "population": "140783",
     "residentialArea": "2248,0"
   },
   {
     "name": "Печатники",
     "district": "ЮВАО",
     "area": "17,89",
-    "population": "86 447",
+    "population": "86447",
     "residentialArea": "1369,3"
   },
   {
     "name": "Покровское-Стрешнево",
     "district": "СЗАО",
     "area": "12,90",
-    "population": "58 299",
+    "population": "58299",
     "residentialArea": "1006,7"
   },
   {
     "name": "Преображенское",
     "district": "ВАО",
     "area": "5,61",
-    "population": "90 017",
+    "population": "90017",
     "residentialArea": "1453,2"
   },
   {
     "name": "Пресненский",
     "district": "ЦАО",
     "area": "11,70",
-    "population": "127 462",
+    "population": "127462",
     "residentialArea": "1416,4"
   },
   {
     "name": "Проспект Вернадского",
     "district": "ЗАО",
     "area": "4,65",
-    "population": "63 597",
+    "population": "63597",
     "residentialArea": "1831,0"
   },
   {
     "name": "Раменки",
     "district": "ЗАО",
     "area": "18,54",
-    "population": "139 127",
+    "population": "139127",
     "residentialArea": "3511,2"
   },
   {
     "name": "Ростокино",
     "district": "СВАО",
     "area": "3,54",
-    "population": "39 407",
+    "population": "39407",
     "residentialArea": "732,8"
   },
   {
     "name": "Рязанский",
     "district": "ЮВАО",
     "area": "6,49",
-    "population": "108 733",
+    "population": "108733",
     "residentialArea": "2025,9"
   },
   {
     "name": "Савёлки",
     "district": "ЗелАО",
     "area": "8,13",
-    "population": "34 147",
+    "population": "34147",
     "residentialArea": "695,0"
   },
   {
     "name": "Савёловский",
     "district": "САО",
     "area": "2,70",
-    "population": "59 184",
+    "population": "59184",
     "residentialArea": "1120,0"
   },
   {
     "name": "Свиблово",
     "district": "СВАО",
     "area": "4,41",
-    "population": "62 009",
+    "population": "62009",
     "residentialArea": "956,1"
   },
   {
     "name": "Северное Бутово",
     "district": "ЮЗАО",
     "area": "9,13",
-    "population": "95 561",
+    "population": "95561",
     "residentialArea": "1751,0"
   },
   {
     "name": "Северное Измайлово",
     "district": "ВАО",
     "area": "4,20",
-    "population": "87 564",
+    "population": "87564",
     "residentialArea": "1624,3"
   },
   {
     "name": "Северное Медведково",
     "district": "СВАО",
     "area": "5,66",
-    "population": "127 451",
+    "population": "127451",
     "residentialArea": "1764,0"
   },
   {
     "name": "Северное Тушино",
     "district": "СЗАО",
     "area": "9,40",
-    "population": "165 265",
+    "population": "165265",
     "residentialArea": "2665,5"
   },
   {
     "name": "Северный",
     "district": "СВАО",
     "area": "10,29",
-    "population": "34 960",
+    "population": "34960",
     "residentialArea": "620,0"
   },
   {
     "name": "Силино",
     "district": "ЗелАО",
     "area": "10,40",
-    "population": "39 987",
+    "population": "39987",
     "residentialArea": "765.0"
   },
   {
     "name": "Сокол",
     "district": "САО",
     "area": "3,72",
-    "population": "59 349",
+    "population": "59349",
     "residentialArea": "1163,5"
   },
   {
     "name": "Соколиная Гора",
     "district": "ВАО",
     "area": "7,84",
-    "population": "91 085",
+    "population": "91085",
     "residentialArea": "1422,0"
   },
   {
     "name": "Сокольники",
     "district": "ВАО",
     "area": "10,28",
-    "population": "61 164",
+    "population": "61164",
     "residentialArea": "1247,2"
   },
   {
     "name": "Солнцево",
     "district": "ЗАО",
     "area": "11,29",
-    "population": "124 797",
+    "population": "124797",
     "residentialArea": "2058,4"
   },
   {
     "name": "Старое Крюково",
     "district": "ЗелАО",
     "area": "3,81",
-    "population": "30 853",
+    "population": "30853",
     "residentialArea": "566,0"
   },
   {
     "name": "Строгино",
     "district": "СЗАО",
     "area": "16,84",
-    "population": "159 973",
+    "population": "159973",
     "residentialArea": "2406,2"
   },
   {
     "name": "Таганский",
     "district": "ЦАО",
     "area": "8,01",
-    "population": "120 943",
+    "population": "120943",
     "residentialArea": "2380,6"
   },
   {
     "name": "Тверской",
     "district": "ЦАО",
     "area": "7,27",
-    "population": "77 497",
+    "population": "77497",
     "residentialArea": "1253,3"
   },
   {
     "name": "Текстильщики",
     "district": "ЮВАО",
     "area": "5,92",
-    "population": "104 815",
+    "population": "104815",
     "residentialArea": "1638,7"
   },
   {
     "name": "Тёплый Стан",
     "district": "ЮЗАО",
     "area": "7,50",
-    "population": "134 298",
+    "population": "134298",
     "residentialArea": "2406,4"
   },
   {
     "name": "Тимирязевский",
     "district": "САО",
     "area": "10,43",
-    "population": "83 641",
+    "population": "83641",
     "residentialArea": "1836,2"
   },
   {
     "name": "Тропарёво-Никулино",
     "district": "ЗАО",
     "area": "11,27",
-    "population": "123 478",
+    "population": "123478",
     "residentialArea": "2895,2"
   },
   {
     "name": "Филёвский Парк",
     "district": "ЗАО",
     "area": "9,62",
-    "population": "92 740",
+    "population": "92740",
     "residentialArea": "1605,9"
   },
   {
     "name": "Фили-Давыдково",
     "district": "ЗАО",
     "area": "6,96",
-    "population": "114 907",
+    "population": "114907",
     "residentialArea": "2388,6"
   },
   {
     "name": "Хамовники",
     "district": "ЦАО",
     "area": "10,08",
-    "population": "108 766",
+    "population": "108766",
     "residentialArea": "2559,6"
   },
   {
     "name": "Ховрино",
     "district": "САО",
     "area": "5,73",
-    "population": "87 845",
+    "population": "87845",
     "residentialArea": "2450,2"
   },
   {
     "name": "Хорошёво-Мнёвники",
     "district": "СЗАО",
     "area": "17,18",
-    "population": "172 371",
+    "population": "172371",
     "residentialArea": "2918,0"
   },
   {
     "name": "Хорошёвский",
     "district": "САО",
     "area": "9,88",
-    "population": "71 127",
+    "population": "71127",
     "residentialArea": "2182,0"
   },
   {
     "name": "Царицыно",
     "district": "ЮАО",
     "area": "8,43",
-    "population": "128 963",
+    "population": "128963",
     "residentialArea": "1836,9"
   },
   {
     "name": "Черёмушки",
     "district": "ЮЗАО",
     "area": "5,52",
-    "population": "109 547",
+    "population": "109547",
     "residentialArea": "1656,7"
   },
   {
     "name": "Чертаново Северное",
     "district": "ЮАО",
     "area": "5,40",
-    "population": "114 506",
+    "population": "114506",
     "residentialArea": "1899,5"
   },
   {
     "name": "Чертаново Центральное",
     "district": "ЮАО",
     "area": "6,52",
-    "population": "116 698",
+    "population": "116698",
     "residentialArea": "2907,0"
   },
   {
     "name": "Чертаново Южное",
     "district": "ЮАО",
     "area": "9,38",
-    "population": "150 067",
+    "population": "150067",
     "residentialArea": "2192,8"
   },
   {
     "name": "Щукино",
     "district": "СЗАО",
     "area": "7,69",
-    "population": "110 272",
+    "population": "110272",
     "residentialArea": "2062,0"
   },
   {
     "name": "Южное Бутово",
     "district": "ЮЗАО",
     "area": "25,54",
-    "population": "207 967",
+    "population": "207967",
     "residentialArea": "4195,0"
   },
   {
     "name": "Южное Медведково",
     "district": "СВАО",
     "area": "3,88",
-    "population": "85 521",
+    "population": "85521",
     "residentialArea": "1355,3"
   },
   {
     "name": "Южное Тушино",
     "district": "СЗАО",
     "area": "7,94",
-    "population": "108 978",
+    "population": "108978",
     "residentialArea": "1714,9"
   },
   {
     "name": "Южнопортовый",
     "district": "ЮВАО",
     "area": "4,53",
-    "population": "74 376",
+    "population": "74376",
     "residentialArea": "1449,0"
   },
   {
     "name": "Якиманка",
     "district": "ЦАО",
     "area": "4,80",
-    "population": "27 589",
+    "population": "27589",
     "residentialArea": "788,7"
   },
   {
     "name": "Ярославский",
     "district": "СВАО",
     "area": "7,99",
-    "population": "97 859",
+    "population": "97859",
     "residentialArea": "1404,5"
   },
   {
     "name": "Ясенево",
     "district": "ЮЗАО",
     "area": "25,37",
-    "population": "177 847",
+    "population": "177847",
     "residentialArea": "2969,3"
   }
 ]
